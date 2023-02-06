@@ -11,3 +11,6 @@
 - git checkout *переход между изменениями*
 - git checkout master *вернуться к текущему состоянию*
 
+
+>Без труда не запулишь и репозитория с гита
+![hard work](https://fraze.ru/images/title_poslovitsy/bykva_b/bez-truda-ne-vynesh-i-rybku-iz-pruda.jpg)
